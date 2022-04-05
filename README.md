@@ -1,5 +1,6 @@
-# Quantum Machine Learning (Ph.D. Course, Univ. Trento April 2022)
-Coding sample for the quantum machine learning course
+# Quantum Machine Learning 
+(Ph.D. Course, Univ. Trento April 2022)
+Coding samples and references for the quantum machine learning course
 
 # References
 ## Experiments on quantum machine learning 
