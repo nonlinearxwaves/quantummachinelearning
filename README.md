@@ -2,6 +2,20 @@
 (Ph.D. Course, Univ. Trento April 2022)
 Coding samples and references for the quantum machine learning course
 
+# Programming tool
+## Scikit-learn
+https://scikit-learn.org/stable/
+## Tensorflow
+https://www.tensorflow.org/
+## Tensorflow-quantum
+https://www.tensorflow.org/quantum
+## Qutip
+https://qutip.org/
+## Qiskit
+https://qiskit.org/
+## Strawberry 
+https://strawberryfields.ai/
+
 # References
 ## Experiments on quantum machine learning 
 ### Superconducting qubits (2019)
