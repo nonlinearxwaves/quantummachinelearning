@@ -3,23 +3,23 @@
 Coding samples and references for the quantum machine learning course
 
 # Program and some useful links
-## General introduction on quantum computing and quantum machine learning
-## Machine learning
-## Basics of quantum mechanics
-## Introduction to qubits, superconducting and optics
-## Examples from real experiments (see References below)
-## Kernel methods
-### Support vector machines
-https://www.youtube.com/watch?v=_PwhiWxHK8o
-### Examples of support vector machines
-See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/scikitexample.ipynb
-### Feature mapping with coherent states
-### Feature mapping with squeezed vacuum
-## Quantum feature maps
-### Density matrices
-### Pauli matrices and their scalar product
-## Qubits and their representation by tensorflow
-... to be continued
+* General introduction on quantum computing and quantum machine learning
+* Machine learning
+* Basics of quantum mechanics
+* Introduction to qubits, superconducting and optics
+* Examples from real experiments (see References below)
+* Kernel methods
+  * Support vector machines
+  <br> https://www.youtube.com/watch?v=_PwhiWxHK8o
+  * Examples of support vector machines
+  <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/scikitexample.ipynb
+* Feature mapping with coherent states
+* Feature mapping with squeezed vacuum
+* Quantum feature maps
+  * Density matrices
+  * Pauli matrices and their scalar product
+* Qubits and their representation by tensorflow
+<br> ... to be continued
 
 # Programming tools
 ## Scikit-learn
