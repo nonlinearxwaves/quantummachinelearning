@@ -1,4 +1,4 @@
-# quantummachinelearning
+# Quantum Machine Learning (Ph.D. Course, Univ. Trento April 2022)
 Coding sample for the quantum machine learning course
 
 # References
