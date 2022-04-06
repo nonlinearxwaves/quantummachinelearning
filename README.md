@@ -14,11 +14,15 @@ Coding samples and references for the quantum machine learning course
   * Examples of support vector machines
   <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/scikitexample.ipynb
 * Feature mapping with coherent states
+  <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/coherentstate.ipynb
 * Feature mapping with squeezed vacuum
+  <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/squeezedvacuum.ipynb
 * Quantum feature maps
   * Density matrices
   * Pauli matrices and their scalar product
 * Qubits and their representation by tensorflow
+<br> ... to be continued
+* Entangled feature mapping with qubits
 <br> ... to be continued
 
 ## Programming tools
@@ -49,6 +53,13 @@ http://dx.doi.org/10.1103/PhysRevLett.113.130503
 https://arxiv.org/abs/2101.11020
 
 #### Quantum feature mapping by coherent states
-to be done
-#### Quantum feature mapping by squeezed states
-to be done
+https://arxiv.org/abs/1612.03713
+
+#### Quantum feature mapping by squeezed states and other
+PRL 122, 040504 (2019)
+
+### Book on supervised quantum machine learning
+
+### Variational quantum algorithms
+https://arxiv.org/abs/2012.09265
+
