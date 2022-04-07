@@ -56,10 +56,19 @@ https://arxiv.org/abs/2101.11020
 https://arxiv.org/abs/1612.03713
 
 #### Quantum feature mapping by squeezed states and other
-PRL 122, 040504 (2019)
-
-### Book on supervised quantum machine learning
+https://doi.org/10.1103/PhysRevLett.122.040504
 
 ### Variational quantum algorithms
 https://arxiv.org/abs/2012.09265
+
+### Book on supervised quantum machine learning
+*Supervised Learning with Quantum Computers*
+Schuld & Petruccione
+https://link.springer.com/book/10.1007/978-3-319-96424-9
+
+### Book on theoretical foundations of quantum mechanics and optics
+*Methods in Theoretical Quantum Optics*
+Barnett & Radmore
+https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198563617.001.0001/acprof-9780198563617
+
 
