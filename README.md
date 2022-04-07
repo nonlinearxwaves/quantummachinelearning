@@ -20,6 +20,7 @@ Coding samples and references for the quantum machine learning course
 * Quantum feature maps
   * Density matrices
   * Pauli matrices and their scalar product
+  * Quantum feature mapping and quantum kernels
 * Qubits and their representation by tensorflow
 <br> ... to be continued
 * Entangled feature mapping with qubits
