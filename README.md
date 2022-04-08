@@ -23,7 +23,7 @@ Coding samples and references for the quantum machine learning course
   * Quantum feature mapping and quantum kernels
 * Qubits and their representation by tensorflow
   <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/QubitsMap.ipynb
-* Entangled feature mapping with qubits
+* Entangled feature mapping and classification with qubits (a classical simulation of a quantum computer)
    <br> https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/QubitsMapKernel.ipynb
 * Quantum models
 <br> ... to be continued
