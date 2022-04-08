@@ -22,7 +22,7 @@ Coding samples and references for the quantum machine learning course
   * Pauli matrices and their scalar product
   * Quantum feature mapping and quantum kernels
 * Qubits and their representation by tensorflow
-<br> ... to be continued
+  <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/QubitsMap.ipynb
 * Entangled feature mapping with qubits
 <br> ... to be continued
 
