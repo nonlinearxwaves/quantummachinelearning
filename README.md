@@ -25,6 +25,9 @@ Coding samples and references for the quantum machine learning course
   <br> See https://github.com/nonlinearxwaves/quantummachinelearning/blob/main/QubitsMap.ipynb
 * Entangled feature mapping with qubits
 <br> ... to be continued
+* Quantum models
+<br> ... to be continued
+
 
 ## Programming tools
 ### Scikit-learn
