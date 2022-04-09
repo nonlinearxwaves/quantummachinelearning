@@ -2,7 +2,7 @@
 (Ph.D. Course, Univ. Trento April 2022)
 Coding samples and references for the quantum machine learning course
 
-## Program and some useful links
+## Program and some links
 * General introduction on quantum computing and quantum machine learning
 * Machine learning
 * Basics of quantum mechanics
