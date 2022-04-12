@@ -74,6 +74,11 @@ https://arxiv.org/abs/2012.09265
 #### Training optical circuits by machine learning
 https://doi.org/10.1364/OE.389432
 
+#### Training Gaussian boson sampling by machine learning
+https://link.springer.com/article/10.1007/s42484-021-00052-y
+
+## Books
+
 ### Book on supervised quantum machine learning
 *Supervised Learning with Quantum Computers*
 Schuld & Petruccione
