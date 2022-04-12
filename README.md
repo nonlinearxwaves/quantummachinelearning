@@ -50,15 +50,16 @@ https://strawberryfields.ai/
 
 ## References
 ### Experiments on quantum machine learning 
-#### Superconducting qubits (2019)
+#### Superconducting qubits
 https://www.nature.com/articles/s41586-019-0980-2
-#### Optics (2022)
+#### Optics
+https://arxiv.org/abs/1902.10678
 https://arxiv.org/abs/2204.00578
 
-### Quantum support vector machines (2014)
+### Quantum support vector machines
 http://dx.doi.org/10.1103/PhysRevLett.113.130503
 
-### Quantum machine learning and kernel methods (2022)
+### Quantum machine learning and kernel methods
 https://arxiv.org/abs/2101.11020
 
 #### Quantum feature mapping by coherent states
