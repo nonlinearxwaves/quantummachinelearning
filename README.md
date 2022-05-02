@@ -1,7 +1,7 @@
 # Quantum Machine Learning 
 (Ph.D. Course, Univ. Trento April 2022)
 Coding samples and references for the quantum machine learning course
-www.complexligh.org
+www.complexlight.org
 
 ## Program and some links
 * General introduction on quantum computing and quantum machine learning
