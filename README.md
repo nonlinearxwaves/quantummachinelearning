@@ -72,6 +72,9 @@ https://doi.org/10.1103/PhysRevLett.122.040504
 ### Variational quantum algorithms
 https://arxiv.org/abs/2012.09265
 
+#### Variational quantum algorithm with Gaussian states
+https://arxiv.org/abs/2110.12379
+
 #### Training optical circuits by machine learning
 https://doi.org/10.1364/OE.389432
 
